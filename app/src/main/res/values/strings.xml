@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill please</string>
+    <string name="Amt">BillAmt</string>
+    <string name="amt">Bill Amount</string>
+    <string name="noofpax">No. of pax</string>
+    <string name="Enable1">Enable</string>
+    <string name="Disable1">Disable</string>
+    <string name="totalSum">Total Sum</string>
+    <string name="hint">Total sum with gst</string>
+    <string name="sum">Total sum with GST</string>
+    <string name="sum1">Calculate</string>
+    <string name="split">Split Bill</string>
+    <string name="GST"><![CDATA[GST & Service Charge]]></string>
+    <string name="gst">GST</string>
+    <string name="Service">Service Charge</string>
+    <string name="Enable2">Enable</string>
+    <string name="Disable2">Disable</string>
+    <string name="Pay">Pay</string>
+    <string name="Amount">0.00</string>
+    <string name="payperperson">pay per person</string>
+</resources>
